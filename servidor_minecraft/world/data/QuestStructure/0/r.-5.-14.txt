@@ -1,0 +1,10 @@
+StonePlantMound,-3009,-3004,-7245,-7240
+VillageWoodMill,-3066,-3050,-7444,-7431
+PeacefulCrypt,-2908,-2892,-7417,-7393
+MonolythUnholy,-3025,-3011,-7469,-7455
+VillageInn,-3038,-3011,-7474,-7454
+SmallWoodenCottage1,-2883,-2877,-7432,-7421
+MeteorSite,-2876,-2861,-7433,-7403
+VillageMarketplace,-3066,-3052,-7485,-7471
+VillageGuardTower,-3038,-3026,-7501,-7489
+StonePlantMound,-2855,-2850,-7472,-7467

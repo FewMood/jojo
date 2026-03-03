@@ -1,0 +1,9 @@
+StoneLeafMound,3843,3852,-8925,-8918
+StonePlantMound4,3855,3862,-8952,-8945
+StonePlantMound3,3910,3919,-8879,-8868
+StonePlantMound,3830,3835,-8946,-8941
+StonePlantMound2,3832,3844,-8985,-8972
+MysticalTree,3979,3994,-8889,-8873
+BrickHenge,3834,3850,-9017,-9001
+StonePlantBoulder,3923,3933,-9007,-8997
+StonePlantMound3,3759,3768,-8828,-8817

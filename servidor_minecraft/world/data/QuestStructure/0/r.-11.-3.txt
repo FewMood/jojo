@@ -1,0 +1,5 @@
+StonePlantMound3,-6147,-6136,-1744,-1735
+ShrineSmallAir,-6111,-6103,-1559,-1551
+StoneBoulder,-6125,-6116,-1627,-1618
+StonePlantBoulder,-6112,-6102,-1642,-1632
+StonePlantBoulder,-6093,-6083,-1710,-1700

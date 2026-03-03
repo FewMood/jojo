@@ -1,0 +1,14 @@
+StoneMazePath,-7170,-7168,-3297,-3295
+StoneMazePath,-7170,-7168,-3294,-3292
+StoneMazePath,-7170,-7168,-3291,-3289
+StoneMazeEndChest,-7170,-7168,-3312,-3310
+ShrineSmallEarth,-7181,-7169,-3276,-3264
+StoneLeafMound,-7193,-7184,-3203,-3196
+StoneBoulder,-7198,-7189,-3273,-3264
+StonePlantMound4,-7228,-7221,-3335,-3328
+StoneLeafMound,-7214,-7207,-3324,-3315
+StonePlantBoulder,-7226,-7216,-3248,-3238
+StoneBoulder,-7241,-7232,-3320,-3311
+VillageForgeLarge,-7587,-7575,-3093,-3077
+StonePlantBoulder,-7428,-7418,-3131,-3121
+StonePlantMound4,-7236,-7229,-3168,-3161

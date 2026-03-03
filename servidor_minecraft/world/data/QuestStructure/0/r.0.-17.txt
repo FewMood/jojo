@@ -1,0 +1,6 @@
+MesoMazePath,510,512,-8861,-8859
+MesoMazePath,510,512,-8858,-8856
+MesoMazePath,510,512,-8852,-8850
+MesoMazePath,510,512,-8855,-8853
+MesoMazePath,510,512,-8833,-8831
+MesoMazePath,510,512,-8836,-8834

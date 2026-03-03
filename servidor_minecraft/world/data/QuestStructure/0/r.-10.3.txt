@@ -1,0 +1,11 @@
+FallenPalmTree,-5336,-5332,1960,1970
+UndergroundTreeoid,-5236,-5210,1979,2002
+StonePlantMound2,-5224,-5212,1928,1941
+StonePlantMound2,-5262,-5249,1867,1879
+WoodWallRemains,-5248,-5240,1854,1882
+SmallOutpost,-5298,-5268,1846,1868
+StoneBoulder,-5336,-5327,1842,1851
+StonePlantMound4,-5259,-5252,1821,1828
+PeacefulCrypt,-5338,-5322,1765,1789
+StonePlantMound3,-5438,-5427,1734,1743
+StonePlantMound2,-5403,-5390,1695,1707

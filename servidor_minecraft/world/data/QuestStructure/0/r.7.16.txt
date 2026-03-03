@@ -1,0 +1,6 @@
+StonePlantMound3,3581,3590,8211,8222
+StonePlantMound2,3587,3600,8281,8293
+MysticalTree,3633,3649,8194,8209
+SmallAbandonedMine,3589,3614,8314,8329
+StonePlantMound2,3696,3708,8212,8225
+ShrineSmallAir,3668,3676,8194,8202

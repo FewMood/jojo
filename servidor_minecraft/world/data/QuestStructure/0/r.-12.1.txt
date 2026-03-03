@@ -1,0 +1,2 @@
+UndergroundCultChamber,-6260,-6218,873,905
+ShrineSmallFire,-6250,-6240,1008,1018

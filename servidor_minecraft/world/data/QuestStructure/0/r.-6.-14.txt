@@ -1,0 +1,2 @@
+VillageTriplets,-3101,-3087,-7429,-7415
+ShrineSmallFire,-3159,-3149,-7642,-7632

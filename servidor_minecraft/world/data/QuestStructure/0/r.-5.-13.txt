@@ -1,0 +1,5 @@
+StoneBoulder,-3045,-3036,-7085,-7076
+StonePlantMound4,-2963,-2956,-7117,-7110
+MeteorSite,-2873,-2843,-6927,-6912
+DinosaurSkeleton,-2822,-2776,-7016,-7007
+DinosaurSkull,-2805,-2786,-6995,-6984

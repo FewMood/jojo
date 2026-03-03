@@ -1,0 +1,10 @@
+MeteorSite,-6649,-6619,-3032,-3017
+StonePlantBoulder,-6613,-6603,-2743,-2733
+StonePlantBoulder,-6591,-6581,-2753,-2743
+ShrineSmallAir,-6576,-6568,-2985,-2977
+ClayWaterMound1,-6568,-6558,-2914,-2903
+StonePlantBoulder,-6545,-6535,-2928,-2918
+StoneLeafMound,-6549,-6542,-3050,-3041
+StonePlantMound1,-6538,-6532,-2901,-2895
+DinosaurSkeleton,-6496,-6487,-3031,-2985
+StoneLeafMound,-6445,-6438,-2978,-2969

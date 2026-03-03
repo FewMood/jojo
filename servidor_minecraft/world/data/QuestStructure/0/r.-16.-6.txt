@@ -1,0 +1,2 @@
+TribalJungleHead,-8237,-8227,-3084,-3074
+StonePlantBoulder,-8468,-8458,-3156,-3146
